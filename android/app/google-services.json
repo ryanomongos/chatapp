@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365940397609",
+    "firebase_url": "https://trial-project-2-43974.firebaseio.com",
+    "project_id": "trial-project-2-43974",
+    "storage_bucket": "trial-project-2-43974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365940397609:android:62d7d28682abd449422e38",
+        "android_client_info": {
+          "package_name": "com.rippy.flutterchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365940397609-dsfrc2ihmphmbqcg4iol8lhdkaao0u8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LgdwqsKOl16xjWFD_r4SoGMKvbqS1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365940397609-dsfrc2ihmphmbqcg4iol8lhdkaao0u8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

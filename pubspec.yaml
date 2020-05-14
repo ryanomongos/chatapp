@@ -1,0 +1,31 @@
+name: flutter_complete_guide
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.13.5
+  firebase_auth: ^0.16.0
+  image_picker: ^0.6.6+1
+  firebase_storage: ^3.1.5
+  firebase_messaging: ^6.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+  uses-material-design: true
+
